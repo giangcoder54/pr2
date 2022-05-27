@@ -1,0 +1,3 @@
+-convert field from public to private
+-parameter in Sclass: add int id
+-add setter
